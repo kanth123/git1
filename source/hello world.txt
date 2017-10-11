@@ -1,0 +1,6 @@
+public class helloworld {
+ public static void main (string[] arges) {
+  system.out.println("hello world!");
+  system.exit ( 0 ); // success
+ }
+}
